@@ -1,0 +1,28 @@
+[class*="col"] {
+    text-align: center;
+    vertical-align: center;
+    line-height: 50px;
+    background-color: rgb(44, 104, 237);
+    color: white;
+    min-height: 50px;
+}
+
+.green {
+    background-color: greenyellow;
+}
+
+.white {
+    background-color: white;
+}
+
+.per2 {
+    height: 100px;
+}
+
+.border {
+    color: #fff;
+}
+
+.blr {
+    border-color: rgb(44, 104, 237);
+}
