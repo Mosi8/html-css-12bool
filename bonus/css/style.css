@@ -1,0 +1,48 @@
+.container {
+    width: 288px;
+    margin-top: 20px;
+}
+[class*="col"] {
+    height: 8px;
+    background-color: white;
+}
+
+.b {
+    background-color: rgb(44, 43, 44);
+}
+
+.y {
+    background-color: rgb(248, 216, 43) ;
+}
+
+.br {
+    background-color: rgb(130, 73, 32);
+}
+
+.r {
+    background-color: red;
+}
+
+.ro {
+    background-color: rgb(247, 205, 153);
+}
+
+.ros {
+    background-color: rgb(195, 137, 76);
+}
+
+.bb {
+    background-color: rgb(13, 18, 197);
+}
+
+.cc{
+    background-color: rgb(86, 188, 249);
+}
+
+.rosso {
+    background-color: rgb(164, 49, 42);
+}
+
+.mar {
+    background-color: rgb(195, 137, 76);
+}
